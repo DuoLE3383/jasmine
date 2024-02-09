@@ -4,32 +4,32 @@ import Link from "next/link";
 
 const SplashHomeDemo = () => {
     const HomeDemo = [
-        {
-            title: "Electronics",
-            thumb: "/images/preview/home-01.png",
-            url: "/home/electronics"
-        },
+        // {
+        //     title: "Electronics",
+        //     thumb: "/images/preview/home-01.png",
+        //     url: "/home/electronics"
+        // },
         {
           title: "Jewellery",
           thumb: "/images/preview/home-04.png",
           url: "/home/jewellery"
       },
-        {
-            title: "Fashion",
-            thumb: "/images/preview/home-03.png",
-            url: "/home/fashion"
-        },
+      //   {
+      //       title: "Fashion",
+      //       thumb: "/images/preview/home-03.png",
+      //       url: "/home/fashion"
+      //   },
         
-        {
-            title: "Furniture",
-            thumb: "/images/preview/home-05.png",
-            url: "/home/furniture"
-        },
-        {
-          title: "NFT",
-          thumb: "/images/preview/home-02.png",
-          url: "/home/nft"
-      },
+      //   {
+      //       title: "Furniture",
+      //       thumb: "/images/preview/home-05.png",
+      //       url: "/home/furniture"
+      //   },
+      //   {
+      //     title: "NFT",
+      //     thumb: "/images/preview/home-02.png",
+      //     url: "/home/nft"
+      // },
 
     ]
 

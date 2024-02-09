@@ -105,6 +105,7 @@ const Checkout = () => {
                                                 <option value="Switzerland">Switzerland</option>
                                                 <option value="United Kindom (UK)">United Kindom (UK)</option>
                                                 <option value="United States (USA)">United States (USA)</option>
+                                                <option value="Viet Nam">Viet Nam</option>
                                             </select>
                                             {errors.country && <p className="error">Country Name is required.</p>}
                                         </div>
